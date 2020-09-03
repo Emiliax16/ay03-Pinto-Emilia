@@ -1,0 +1,82 @@
+
+#cabecera {
+	background: #CBFF53;
+	opacity: 0.7;
+	padding: 2px;
+}
+
+.destacado{font-size: 25px;}
+
+#titulo {
+	background: #EEFF9F;
+}
+#primer_sub{
+	background: #F8D89E;
+	opacity: 0.9;
+	width: 600px;
+	height: 35px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+#segundo_sub{
+	background: #F8D89E;
+	opacity: 0.9;
+	width: 250px;
+	height: 35px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+#tercer_sub{
+	background: #F8D89E;
+	opacity: 0.9;
+	width: 140px;
+	height: 35px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+#destacar_parrafo p.descripcion {
+	background: #F5A351;
+	width: 850px;
+	height: 25px;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+#destacar_parrafo p.letras{
+	font-size: 24px;
+	color: #302A24;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+#destacar_parrafo p.imagenn{
+	background: url('https://anticongelanteparaplantas.com/wp-content/uploads/2018/10/plantas.png') no-repeat;
+	position: relative;
+	top: -30px;
+	right: -318px;
+	width: 850px;
+	height: 100px;
+
+}
+.cita{
+	color: #FF4600;
+}
+
+#ultimo{
+	float: right;
+	background: url(https://img2.freepng.es/20181129/fkq/kisspng-clip-art-plants-borders-and-frames-image-leaf-green-leaves-wall-hanging-vines-lillyfreetoedit-5bff902f269c56.1102289615434752471582.jpg) no-repeat;
+	width: 900px;
+	height: 200px;
+
+}
+#enlace1{
+	background: lightblue;
+}
+#enlace2{
+	background: lightblue;
+}
+#enlace3{
+	background: lightblue;
+}
+
+.arreglar_div{
+	background: #D5F7DE;
+	margin: 1px;
+	border: 1 px solid white
+}
